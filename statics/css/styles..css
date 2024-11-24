@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+    color: #333;
+}
+h1 {
+    color: #0073e6;
+}
+form {
+    margin: 20px;
+}
+input[type="text"] {
+    width: 50px;
+    text-align: center;
+}
